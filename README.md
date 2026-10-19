@@ -1,2 +1,3 @@
-# quigioco.github.io
-Landing published by Script Deploy Service
+# QuiGioco
+
+Published by Script Deploy Service.
